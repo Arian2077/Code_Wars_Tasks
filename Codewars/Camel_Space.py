@@ -1,3 +1,4 @@
+'''find the uppercase and put space before the letter'''
 def solution(s):
     if not s:
         return s
